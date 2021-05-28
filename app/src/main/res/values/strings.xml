@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PS File manager</string>
+    <string name="delete">Delete</string>
+    <string name="create_File">Create File</string>
+    <string name="file_name">File Name</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
